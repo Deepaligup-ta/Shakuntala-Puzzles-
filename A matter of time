@@ -1,0 +1,23 @@
+
+Ques : Fifty minutes ago , it was four times as many minutes past three'o clock. How many minutes is it to 6'o clock?
+
+
+Ans :
+
+Let x be the number of minutes to 6 o'clock.
+
+We know that there are 180 minutes between 3 o'clock and 6 o'clock.
+
+Fifty minutes ago, it was 180-x minutes past 3 o'clock.  The problem states that at that time, it was also four times as many minutes past three o'clock as it is until 6 o'clock, which is simply x.
+
+Therefore, we can write the following equation:
+
+180-x = 4x
+
+Solving for x, we get:
+
+5x = 180
+
+x = 26
+
+So the answer is 26.  This means that it is currently 26 minutes to 6 o'clock.
