@@ -1,0 +1,32 @@
+Ques 1: Next door to me live four brothers of different heights. Their average height is 74 inches and the difference in height is 74 inches and the difference in height amongst the three men is two inches. the difference between third and fourth was 6 inches. Can u tell how tall is each brother?
+
+
+Ans : Let's call the heights of the four brothers  A, B, C, and D from shortest to tallest.
+
+We are given the following information:
+
+The average height is 74 inches: (A + B + C + D) / 4 = 74
+The difference in height among the first three men is two inches: B - A = 2 and C - B = 2
+The difference between the third and the fourth man is six inches: D - C = 6
+From the first equation, we can rewrite it as: A + B + C + D = 296
+
+So we have that:
+1. B-A =2
+2. C-B=2
+3. We can say that C-A=4 from equation 1 and 2.
+4. D-C=6 
+
+Now we will calculate in terms of one variable all the equations which is :
+From all the euations we will calculate the value of C in terms of all other variables which is : 
+A=C-4
+B=C-2
+D=6+C
+C=C
+putting all these in A + B + C + D = 296
+We will get , (C-4)+(C-2)+(C+6)+C=296
+we will get C=74
+Therefore A= 70
+          B=72
+          C=74
+          D=80
+Hence solved.
