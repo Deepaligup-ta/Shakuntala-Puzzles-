@@ -1,0 +1,10 @@
+Ques : A family I know has several children. Each boy in this family has as many sisters as brothers but each girl has twice as many brothers as sisters. How many brothers and sisters are there?
+
+solu:
+lets assume there is one boy who has 3 brothers and 3 sisters. 
+therefore, in total no of children in family will be 7. 4 boys and 3 girls.
+
+after according to the condition of girls that one girl has twice as  many brothers as sisters.
+therefore taking the same assumption , one girl will have 2 sisters and 4 brothers. 
+
+In this situation , we got the answer as 4 boys are there and 3 girls are there. 
