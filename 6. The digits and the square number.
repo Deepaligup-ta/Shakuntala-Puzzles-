@@ -1,0 +1,8 @@
+Ques : All the nine digits are arranged so as to form four square numbers 
+9, 81, 324, 576
+
+How owuld you put them together so as to form a single smallest possible square numbers and a single largest possible square number?
+
+
+Solu : The lowest square number which can be formed using these numbers once and only once is 139854276 ,which is a square of 11826. 
+       The highest square number under the same conditions is 923187546, the square of 30384. 
