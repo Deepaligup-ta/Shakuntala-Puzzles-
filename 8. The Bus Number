@@ -1,0 +1,9 @@
+Ques: While visitng a snall town in the United states. I lost my overcoat in a bus. When I reported the matter to the bus company I was asked the number of the bus. 
+Though I did not remember the exact number I did remember that the bus number has a certain pecularity about it. The number plate showed the bus number was a perfect square and also if the plate was turned upside down , the number would still be a perfect square. 
+I came to know from the bus company they had only 500 hundred buses numbered 1 to 500 . From this I was abke to deduce the bus number. Can you tell what was the number ?
+
+
+Solu: 
+Be, experiment, we find that the only numbers that can be turned upside down and still read as a number are 0, 1, 6, 8 and 9. 
+The numbers 0,1,8 remain 0,1,8 when turned over, but 6 becomes 9 and 9 becomes 6. Therefor the possible numbers were, 9, 16 , 81 , 100 , 169, 196. however the number 196 is a perfect square of 14 and trhe only number when turned upside down , remain a perfect square which 961 and perfect square of 31. 
+Therefore, 196 is correct answer.
