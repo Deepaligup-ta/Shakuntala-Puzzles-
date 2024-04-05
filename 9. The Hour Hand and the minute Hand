@@ -1,0 +1,8 @@
+Ques : We all know that the hour hand and the minute hand on a clock travel at different speeds. However, there are certain occasions when they are exactly opposite each other.
+Can you give a simple formula for calculating the times of these occasions?
+
+
+Solu: 
+  Here is the formula that gives the minutes past twelve to which hour hand points when the minute hand is exactly thirty minutes ahead.
+Minutes past twelve Y=30/11[2(n-1)+1] where n is the next hour.
+
