@@ -1,0 +1,6 @@
+Ques : Supposing a clock takes 7 seconds to strike   7. How long will the same clock take to strike 10?
+
+Solu: While striking 7 , the clock strikes the first gong at 7'o clock and it strikes 6 more time at regular intervals , then for each strike 
+we can say 6/7 seconds are applied. However to strike 10 there are 9 intervals and 1 strike for reaching 10'o clock
+then for 9 intervals , each will have a time of 6/7 seconds which is approximately 10.
+Therefore 10 seconds are required.
