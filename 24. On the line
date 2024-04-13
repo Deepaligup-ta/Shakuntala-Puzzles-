@@ -1,0 +1,4 @@
+Ques : It is a small town railways tation and there 25 railways tations on that line. At each of the 25 stations the passengers can get tickets for any of the other 24 stations.
+How man different kinds of tickets do you think the booking clerk has to keep?
+
+Solu: 24*25 =600 tickets in total has to keep.
