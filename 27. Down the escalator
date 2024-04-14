@@ -1,0 +1,16 @@
+Ques: Recently,while in London, I decided to walk down the escalator of a tube station.I did some calculation in my mind.
+I found that if I walk down 26 steps , it took me 30 seconds to reach bottom. However, If I am able to walk down 34 steps, 
+I would only require 18 seconds to get to the bottom. If the time is measured from the top step begins to descend to the time,
+I step off the last step of the bottom, can you tell the height of the stairs.
+
+
+
+Solu: If I walk 26 steps, I require 30 seconds.
+If I walk down 34 steps, it would require 18 seconds.
+
+26: 30:: 34:18
+26*18 = 468
+30*34 = 1020
+1020-468=552
+30-18=12
+552/12=46 therefore , height of the stairs is 46.
