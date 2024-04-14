@@ -1,0 +1,7 @@
+Ques: We all know that chess board has 64 squares. This can be completely covered by 32 rectangles each covering 2 sqaures.
+Supposing we remove 2 squares of chess board at diagonally opposite corners, can we cover the modified board with 31 rectangles?
+Can we dot it, if yes how and if no explain.
+
+Solu:
+No it cant be done. As on chess board we have 64 squares, two adjacent squares are of different colours. If we remove two squares diagonally, they will be of same colours,
+So, remaining will have two more boxes of same colour. and after covering 60 boxes, two boxes will be left , therefore not possible to cover.
