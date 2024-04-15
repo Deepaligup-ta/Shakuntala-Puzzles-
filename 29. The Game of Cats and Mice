@@ -1,0 +1,12 @@
+Ques: Anumber of cats got together and decided to kill between them 999919 mice. Every cat killed an equal number of mice. How many cats do you think there were? 
+Oh, by the way let me clarify just two points, it is not one cat killed the lot, becuase I have said 'Cats'
+and it is not 999919 cats each killed one mouse because I have used the word'mice'.
+I can give you just one clue-each cat killed more mice that there were cats.
+
+
+Solu:
+Let the number of cats be X.
+Let the number of mouse be Y.
+X*Y=999919
+we have only tw prime numbers in this, 991,1009 which when multiplied will give total number.
+therefore 991 cats killed 1009 mouse.
