@@ -1,0 +1,14 @@
+Recently, while i was in a holiday resort in peru I watched a very interesting spectacle. Two gentlemen by the name of Sr. Guittierez and Sr. Lbanez decided to have a Llama race over the mile course on the beach sands.
+They requested me and some of my other friends whom I had met at the resort to act as the judges. We stationed ourselves at different points on the course,which was marked off in quarter miles.
+But, the two Llamas, being good friends decided not to part company, and ran together the whole way. However, we the judges noted with interest the total lowing results.
+The Llamas ran the first three quarters in six and three quarter minutes. They took the same time to run the first half mile as the second half. And they ran the third quarter in exactly same time as the last quarter.
+From these results I became very much interested in finding out just how long it took those two Llamas to run the whole mile.
+
+Solu:
+Let the time taken to run each of the quarter miles(in minutes) be given T1,T2,T3,T4. 
+ATQ, 
+T1+T2+T3+T4=6.75              -------1
+T1+T2=T3+T4                   -------2
+T3=T4                         --------3
+
+solving all the equations we get total we get as 9 miles.
