@@ -1,0 +1,8 @@
+Ques: A clock with the hours round the face in roman block numbers, as illustrated and dial broke down into four parts.
+The numerals in each part in every case summed to a total of 20. Can you show the four parts of clock face was broken?
+
+Solu:
+12+ 1+2+3+ II (dividing 4 into two halves)=20
+II+5+6+7=20
+8+ I(9 divied into half) +11=20
+X+X=20
