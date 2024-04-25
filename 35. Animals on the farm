@@ -1,0 +1,14 @@
+Ques: My friend who owns a farm near bangalore had five droves of animals on his farm conisting f cows, sheeps and pigs with the same number of animals in each drove. 
+One day he decided to sell them all and sold them to eight dealers. Each of eight dealers bought the same number of animals and paid at the rate of Rs. 17 for each cow Rs2. for eachs heep and Rs. 2 for each pig.
+My friend received from the dealers in total of Rs. 285. How many animals in all did he have and how many of each kind?
+
+Solu: 
+We know that there were five droves with an equal number in each drove, and,therefore,
+the number must be divisible by 5. As every one of the eight dealers bought the same 
+number of animals, the number must also be divisible by 8. 
+This leads us to the conclusion that the number must be a multiple of 40.
+
+Now the highest possible multiple of 40 that will work is 120, and this number could be
+made up in one of two ways-1 cow, 23 sheep and 96 pigs or 3 cows, 8 sheep and 109 pigs. 
+But the first does not fit in because the animals consisted of 'Cows, Sheep and Pigs' and a single 'Cow' is not 'Cows'. 
+Therefore, the second possibility is the correct answer.
